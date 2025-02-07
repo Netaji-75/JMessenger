@@ -26,3 +26,14 @@ This is a simple client-server chat application written in Java. It allows multi
 1. Compile the server code:
    ```sh
    javac Server.java
+2. Run the server code:
+   ```sh
+   java Server
+### Running the Client
+
+1. Compile the Client code:
+   ```sh
+   javac Client.java
+2. Run the Client code:
+   ```sh
+   java Client
